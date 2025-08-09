@@ -1,0 +1,1 @@
+give @s minecraft:snowball[custom_model_data={strings:["2538461"]}, custom_data={fireball:1b}, item_name="Fireball"] 1

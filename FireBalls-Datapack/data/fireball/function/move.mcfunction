@@ -1,0 +1,2 @@
+data modify entity @e[type=minecraft:fireball,tag=player,sort=nearest,limit=1] Pos set from entity @s Pos
+data modify entity @e[type=minecraft:fireball, tag=player,sort=nearest,limit=1] Motion set from entity @s Motion
